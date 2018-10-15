@@ -1,7 +1,7 @@
 {
-  "productName": "angular-electron",
+  "productName": "wallpaperer",
   "directories": {
-    "output": "app-builds"
+    "output": "dist"
   },
     "files": [
         "**/*",
